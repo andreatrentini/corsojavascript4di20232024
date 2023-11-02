@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        var variabile = 5;
+        var vettore = [1, 2, 3, 4, 'Andrea', 'Marco'];
+        var oggetto = {
+            nome: 'Andrea',
+            cognome: 'Trentini',
+            classe: '4Di'
+        }
+
+    </script>
+</head>
+<body>
+    
+    <script>
+        console.log(variabile);
+        console.log('for');
+        for (let i = 0; i < vettore.length; i++) {
+            const element = vettore[i];
+            console.log(element);
+        }
+        console.log('foreach');
+        vettore.forEach(element => {
+            console.log(element);
+        });
+
+        console.log(oggetto);
+        oggetto.nome = 'Mario';
+        console.log(oggetto);
+        oggetto.nme = 'Enrico';
+        console.log(oggetto);
+
+    </script>
+</body>
+</html>
