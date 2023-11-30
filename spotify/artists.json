@@ -1,0 +1,667 @@
+{
+    "artists": {
+        "href": "https://api.spotify.com/v1/search?query=artist%3Asalmo&type=artist&locale=it-IT%2Cit%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7&offset=0&limit=20",
+        "items": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2420992
+                },
+                "genres": [
+                    "italian hip hop",
+                    "italian pop",
+                    "italian underground hip hop",
+                    "rap sardegna"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3hBQ4zniNdQf1cqqo6hzuW",
+                "id": "3hBQ4zniNdQf1cqqo6hzuW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd9bed24492a4dff2edf3749e",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d9bed24492a4dff2edf3749e",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d9bed24492a4dff2edf3749e",
+                        "width": 160
+                    }
+                ],
+                "name": "Salmo",
+                "popularity": 71,
+                "type": "artist",
+                "uri": "spotify:artist:3hBQ4zniNdQf1cqqo6hzuW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 93615
+                },
+                "genres": [
+                    "jam band",
+                    "jamgrass",
+                    "progressive bluegrass"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2dU9NlAClSjQtKoVgUQwdz",
+                "id": "2dU9NlAClSjQtKoVgUQwdz",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebce3f93bcab19067fee015ff9",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174ce3f93bcab19067fee015ff9",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178ce3f93bcab19067fee015ff9",
+                        "width": 160
+                    }
+                ],
+                "name": "Leftover Salmon",
+                "popularity": 39,
+                "type": "artist",
+                "uri": "spotify:artist:2dU9NlAClSjQtKoVgUQwdz"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 94
+                },
+                "genres": [
+                    "background piano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3owpIJZNZCgXp7WLQJWObU",
+                "id": "3owpIJZNZCgXp7WLQJWObU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e6b0d2615f87e5b85edca27a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e6b0d2615f87e5b85edca27a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e6b0d2615f87e5b85edca27a",
+                        "width": 64
+                    }
+                ],
+                "name": "Jonathan Salmon",
+                "popularity": 34,
+                "type": "artist",
+                "uri": "spotify:artist:3owpIJZNZCgXp7WLQJWObU"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3569
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/5JWkrKXdnre8MtcZLrqrPs",
+                "id": "5JWkrKXdnre8MtcZLrqrPs",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd2908a56b6c5b9738d1f01e0",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174d2908a56b6c5b9738d1f01e0",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178d2908a56b6c5b9738d1f01e0",
+                        "width": 160
+                    }
+                ],
+                "name": "Salmon Cat",
+                "popularity": 28,
+                "type": "artist",
+                "uri": "spotify:artist:5JWkrKXdnre8MtcZLrqrPs"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4CrKP8lBJXCb6a3TcL2pat"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 81164
+                },
+                "genres": [
+                    "nz reggae"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4CrKP8lBJXCb6a3TcL2pat",
+                "id": "4CrKP8lBJXCb6a3TcL2pat",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb676554a603425182f9631b00",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174676554a603425182f9631b00",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178676554a603425182f9631b00",
+                        "width": 160
+                    }
+                ],
+                "name": "Salmonella Dub",
+                "popularity": 37,
+                "type": "artist",
+                "uri": "spotify:artist:4CrKP8lBJXCb6a3TcL2pat"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2sdesojQFiLBRelgfKvDyU"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 183
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/2sdesojQFiLBRelgfKvDyU",
+                "id": "2sdesojQFiLBRelgfKvDyU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273976921ed5caba55075667029",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02976921ed5caba55075667029",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851976921ed5caba55075667029",
+                        "width": 64
+                    }
+                ],
+                "name": "Salmodiad",
+                "popularity": 25,
+                "type": "artist",
+                "uri": "spotify:artist:2sdesojQFiLBRelgfKvDyU"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5VdwMvviiVlBMnzWww3uO5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 10269
+                },
+                "genres": [
+                    "indonesian trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5VdwMvviiVlBMnzWww3uO5",
+                "id": "5VdwMvviiVlBMnzWww3uO5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba3d4e4470e443a741b3d9a37",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174a3d4e4470e443a741b3d9a37",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178a3d4e4470e443a741b3d9a37",
+                        "width": 160
+                    }
+                ],
+                "name": "Lil Salmonela",
+                "popularity": 33,
+                "type": "artist",
+                "uri": "spotify:artist:5VdwMvviiVlBMnzWww3uO5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2aMPdqdqsjloSNyhU5AiKR"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3995
+                },
+                "genres": [
+                    "corridos cristianos"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2aMPdqdqsjloSNyhU5AiKR",
+                "id": "2aMPdqdqsjloSNyhU5AiKR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb47ccd16ccf55c873814ee49b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517447ccd16ccf55c873814ee49b",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17847ccd16ccf55c873814ee49b",
+                        "width": 160
+                    }
+                ],
+                "name": "Salmo 100",
+                "popularity": 20,
+                "type": "artist",
+                "uri": "spotify:artist:2aMPdqdqsjloSNyhU5AiKR"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7eqrlUxctqdcTeCtedYgkX"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 118
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/7eqrlUxctqdcTeCtedYgkX",
+                "id": "7eqrlUxctqdcTeCtedYgkX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb480a2605938034ad6385726d",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174480a2605938034ad6385726d",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178480a2605938034ad6385726d",
+                        "width": 160
+                    }
+                ],
+                "name": "SalMo IV",
+                "popularity": 13,
+                "type": "artist",
+                "uri": "spotify:artist:7eqrlUxctqdcTeCtedYgkX"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7I10UXCLsLxblY3Q20iarY"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 147
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/7I10UXCLsLxblY3Q20iarY",
+                "id": "7I10UXCLsLxblY3Q20iarY",
+                "images": [],
+                "name": "Kenny Salmon",
+                "popularity": 12,
+                "type": "artist",
+                "uri": "spotify:artist:7I10UXCLsLxblY3Q20iarY"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0rbp6yLBKp9HFyF3TRy157"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4647
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/0rbp6yLBKp9HFyF3TRy157",
+                "id": "0rbp6yLBKp9HFyF3TRy157",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb2a57e14d225d668ee3fdddd6",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051742a57e14d225d668ee3fdddd6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1782a57e14d225d668ee3fdddd6",
+                        "width": 160
+                    }
+                ],
+                "name": "Andre Salmon",
+                "popularity": 19,
+                "type": "artist",
+                "uri": "spotify:artist:0rbp6yLBKp9HFyF3TRy157"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3tv4gnWPMJFl3PFmhZNtFN"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 136
+                },
+                "genres": [
+                    "american classical piano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3tv4gnWPMJFl3PFmhZNtFN",
+                "id": "3tv4gnWPMJFl3PFmhZNtFN",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273286f66be17a1f277aa3bf58d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02286f66be17a1f277aa3bf58d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851286f66be17a1f277aa3bf58d",
+                        "width": 64
+                    }
+                ],
+                "name": "John Salmon",
+                "popularity": 10,
+                "type": "artist",
+                "uri": "spotify:artist:3tv4gnWPMJFl3PFmhZNtFN"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2n8S32Rg5rJp9IAy9m7T4K"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 0
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/2n8S32Rg5rJp9IAy9m7T4K",
+                "id": "2n8S32Rg5rJp9IAy9m7T4K",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27380495ee5696e6d5beb41145c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0280495ee5696e6d5beb41145c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485180495ee5696e6d5beb41145c",
+                        "width": 64
+                    }
+                ],
+                "name": "Mario Salmonki",
+                "popularity": 7,
+                "type": "artist",
+                "uri": "spotify:artist:2n8S32Rg5rJp9IAy9m7T4K"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0rg9qGdisOZfvmOCl6SS6N"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 974
+                },
+                "genres": [
+                    "gabber"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0rg9qGdisOZfvmOCl6SS6N",
+                "id": "0rg9qGdisOZfvmOCl6SS6N",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273489d6091b53d74bcf2230db7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021ef1cdcd11fec568e8578b1f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511ef1cdcd11fec568e8578b1f",
+                        "width": 64
+                    }
+                ],
+                "name": "Tony Salmonelli",
+                "popularity": 21,
+                "type": "artist",
+                "uri": "spotify:artist:0rg9qGdisOZfvmOCl6SS6N"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0YeNo7aSvFyaMdqxzM55UD"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 43
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/0YeNo7aSvFyaMdqxzM55UD",
+                "id": "0YeNo7aSvFyaMdqxzM55UD",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27302802a7f3b24605bb2c9305f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0202802a7f3b24605bb2c9305f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485102802a7f3b24605bb2c9305f",
+                        "width": 64
+                    }
+                ],
+                "name": "Salmon Says",
+                "popularity": 11,
+                "type": "artist",
+                "uri": "spotify:artist:0YeNo7aSvFyaMdqxzM55UD"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TxfPK83nWDn2EjiC4w8KY"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2435
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/3TxfPK83nWDn2EjiC4w8KY",
+                "id": "3TxfPK83nWDn2EjiC4w8KY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fca5d37d95ea5442be126efb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fca5d37d95ea5442be126efb",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fca5d37d95ea5442be126efb",
+                        "width": 64
+                    }
+                ],
+                "name": "Laurene Salmon",
+                "popularity": 5,
+                "type": "artist",
+                "uri": "spotify:artist:3TxfPK83nWDn2EjiC4w8KY"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/727GWtabW9ovfZisldKlHv"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 329
+                },
+                "genres": [
+                    "latin tech house"
+                ],
+                "href": "https://api.spotify.com/v1/artists/727GWtabW9ovfZisldKlHv",
+                "id": "727GWtabW9ovfZisldKlHv",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733ffafbae713a409c60fefac1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023ffafbae713a409c60fefac1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513ffafbae713a409c60fefac1",
+                        "width": 64
+                    }
+                ],
+                "name": "Andre Salmon",
+                "popularity": 12,
+                "type": "artist",
+                "uri": "spotify:artist:727GWtabW9ovfZisldKlHv"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3g8HQgim1o5LFnwZdwSuXb"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 5120
+                },
+                "genres": [
+                    "keroncong"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3g8HQgim1o5LFnwZdwSuXb",
+                "id": "3g8HQgim1o5LFnwZdwSuXb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e148deedfb5bab581a79efd8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e148deedfb5bab581a79efd8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e148deedfb5bab581a79efd8",
+                        "width": 64
+                    }
+                ],
+                "name": "Toto Salmon",
+                "popularity": 18,
+                "type": "artist",
+                "uri": "spotify:artist:3g8HQgim1o5LFnwZdwSuXb"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7ovC9sFZkJkpJjvR9DWVbU"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 675
+                },
+                "genres": [
+                    "mariachi cristiano"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7ovC9sFZkJkpJjvR9DWVbU",
+                "id": "7ovC9sFZkJkpJjvR9DWVbU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273692a65a4908a83411dcf15b0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02692a65a4908a83411dcf15b0",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851692a65a4908a83411dcf15b0",
+                        "width": 64
+                    }
+                ],
+                "name": "Mariachi Los Salmos",
+                "popularity": 9,
+                "type": "artist",
+                "uri": "spotify:artist:7ovC9sFZkJkpJjvR9DWVbU"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2tNKKKHBepToYVmCiT0hOV"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 0
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/2tNKKKHBepToYVmCiT0hOV",
+                "id": "2tNKKKHBepToYVmCiT0hOV",
+                "images": [],
+                "name": "Olaf Salmon",
+                "popularity": 8,
+                "type": "artist",
+                "uri": "spotify:artist:2tNKKKHBepToYVmCiT0hOV"
+            }
+        ],
+        "limit": 20,
+        "next": "https://api.spotify.com/v1/search?query=artist%3Asalmo&type=artist&locale=it-IT%2Cit%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7&offset=20&limit=20",
+        "offset": 0,
+        "previous": null,
+        "total": 505
+    }
+}
