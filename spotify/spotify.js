@@ -37,7 +37,10 @@ function searchArtists(artistName) {
     })
     .then(response => response.json())
     .then(data => {
+        let results = document.getElementById('results');
+        results.innerText = '';
         console.log(data);
+        results.appendChild(createArtistsList(data.artists.items));
     })
 }
 
@@ -63,11 +66,16 @@ function createArtistCard(artist) {
 </div>
     */
     let card = document.createElement('div');
-    card.className = 'card';
+    card.className = 'card mt-4';
     let image = document.createElement('img');
     image.className = 'card-img-top';
-    image.src = artis.images[1].url;
-    image.alt = artist.name;
+    if(artist.images.length > 0) {
+        image.src = artist.images[1].url;
+        image.alt = artist.name;
+    }
+    else {
+        image.src = './noimage.png';        
+    }
     card.appendChild(image);
     let divBody = document.createElement('div');
     divBody.className = 'card-body';
@@ -88,4 +96,16 @@ function createArtistCard(artist) {
     divBody.appendChild(text);
     card.appendChild(divBody);
     return card;
+}
+
+function createArtistsList(artists) {
+    let row = document.createElement('div');
+    row.className = 'row';
+    artists.forEach(artist => {
+        let col = document.createElement('div');
+        col.className = 'col-lg-4 col-sm-6';
+        col.appendChild(createArtistCard(artist));
+        row.appendChild(col);
+    });
+    return row;
 }
